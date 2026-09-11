@@ -1,1 +1,1 @@
-Baseline text
+Base branch chooses blue
